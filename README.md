@@ -1,10 +1,12 @@
 # skin-cancer-detector
 
 
+## installation
 
+python -m venv venv
+pip install Flask
 
-
-# requirements.txt:
+## requirements.txt:
 numpy
 pandas
 matplotlib
